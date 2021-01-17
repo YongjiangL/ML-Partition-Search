@@ -1,6 +1,6 @@
-# Workload-Aware Subgraph Query Caching and Processing in Large Graphs
-The paper: "[Workload-Aware Subgraph Query Caching and Processing in Large Graphs](https://ieeexplore.ieee.org/abstract/document/8731404)" by Yongjiang Liang, Peixiang Zhao, ICDE'19. 
+# Similarity Search in Graph Databases: A Multi-layered Indexing Approach
+The paper: "[Similarity Search in Graph Databases: A Multi-layered Indexing Approach](http://www.cs.fsu.edu/~zhao/pzhao4files/icde17.pdf)" by Yongjiang Liang, Peixiang Zhao, ICDE'17. The [presentation slides](http://www.cs.fsu.edu/~zhao/pzhao4files/mlindex.pptx) are also available.
 
-The algorithms are implemented in C++ and compiled in Ubuntu.
+The algorithms are implemented in C++ and compiled in Microsoft Visual Studio 2015.
 
 Author: Yongjiang Liang liang@cs.fsu.edu
